@@ -1,0 +1,22 @@
+{
+
+	"manifest_version": 2,
+	"name": "MrRajangify",
+	"version": "1.0",
+
+	"description": "Adds monsters from Monster Hunter to YouTube thumbnails.",
+
+	"icons": {
+	},
+
+	"content_scripts": [
+		{
+			"matches": ["*://*.youtube.com/*"],
+			"js": ["rajangify.js"]
+		}
+	],
+
+	"web_accessible_resources": [
+		"img/*"
+	]
+}
