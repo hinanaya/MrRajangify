@@ -1,6 +1,6 @@
 # MrRajangify
 
-![Pukei-Pukei](img/monster7.png)
+![Pukei-Pukei](img/banner.png)
 
 * Inspired by the [MrBeastify](https://github.com/mrbeastify/mrbeastify/) Firefox addon.
 * Puts Monster Hunter monsters in the thumbnails instead.
